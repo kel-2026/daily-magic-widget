@@ -1,2 +1,2 @@
-# daily-magic-widget
+# index.html
 My enchanted daily quote widget 
